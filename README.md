@@ -1,11 +1,11 @@
-# #100DaysOfCode Journal
+# My #100days journal
 
-My #100DaysOfCode journal website built with NuxtJS, used to track my projects in this challenge and to see my progress through it.
+My [#100DaysOfCode](https://www.100daysofcode.com/) journal website built with NuxtJS, used to track my projects in this challenge and to see my progress through it.
 
 ## Built With
 
 - [Vue.js](https://vuejs.org/) - The web framework used
-- [Nuxt.JS](https://nuxtjs.org/)
+- [Nuxt.js](https://nuxtjs.org/) - A higher-level framework that builds on top of Vue, built to simplifies the development of universal or single page Vue apps
 
 ## Build Setup
 
