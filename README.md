@@ -1,4 +1,4 @@
-# 100days_blog
+# #100DaysOfCode Journal
 
 My #100DaysOfCode journal website built with NuxtJS, used to track my projects in this challenge and to see my progress through it.
 
