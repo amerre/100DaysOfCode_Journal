@@ -1,4 +1,8 @@
+$app-width: 700px;
+
 .container {
   min-height: 100vh;
-  text-align: center;
+  width: $app-width;
+  margin: auto;
+  padding: 40px 0;
 }
