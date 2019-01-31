@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <navbar/>
-    <projects/>
+    <project/>
     <Footer/>
   </section>
 </template>
@@ -9,13 +9,13 @@
 <script>
 import Navbar from "~/components/Navbar.vue";
 import Footer from "~/components/Footer.vue";
-import Projects from "~/components/projects/Projects.vue";
+import Project from "~/components/projects/Project.vue";
 
 export default {
   components: {
     Navbar,
     Footer,
-    Projects
+    Project
   }
 };
 </script>
