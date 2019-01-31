@@ -1,6 +1,7 @@
 <template>
   <div class="footer">
-    <a class="footer__link" href="https://github.com/amerre">Git</a>
-    <a class="footer__link" href="https://adrienmerre.fr">Perso</a>
+    <a class="footer__link" href="https://github.com/amerre">
+      <img src="../assets/images/github.svg">
+    </a>
   </div>
 </template>

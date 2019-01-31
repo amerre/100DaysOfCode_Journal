@@ -1,8 +1,7 @@
 $app-width: 700px;
 
 .container {
-  min-height: 100vh;
   width: $app-width;
   margin: auto;
-  padding: 40px 0;
+  border: 2px solid red;
 }

@@ -2,14 +2,14 @@
   <div>
     <div class="projectHeader">
       <h1>Learn to something</h1>
-      <h2>Day 2 - March 23, 2001</h2>
+      <sub>Day 2 - March 23, 2001</sub>
     </div>
     <div class="projectContent">
-      <p class="projectContent__title">What I did today :</p>
+      <strong>What I did today :</strong>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     <div class="projectContent">
-      <p class="projectContent__title">My thoughts :</p>
+      <strong>My thoughts :</strong>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
   </div>

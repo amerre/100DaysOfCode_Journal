@@ -2,13 +2,20 @@
   font-family: "Roboto", sans-serif !important;
 }
 h1 {
-  font-size: 37px;
+  font-size: 35px;
   font-weight: 400;
+  margin: 30px auto 5px auto;
 }
-h2 {
+sub {
   font-size: 14px;
   color: grey;
   font-weight: 400;
+}
+strong {
+  display: block;
+  font-size: 18px;
+  color: red;
+  margin: 18px auto 10px auto;
 }
 p {
   font-size: 16px;
