@@ -1,7 +1,17 @@
 .projects {
+  margin-bottom: 20px;
   h1 {
-    margin: 7px auto 20px auto;
-    padding-bottom: 10px;
+    margin: 7px auto 5px auto;
+    padding-bottom: 5px;
     border-bottom: 0.5px solid black;
+  }
+  button {
+    width: 100%;
+    text-align: left;
+    background-color: inherit;
+    cursor: pointer;
+  }
+  .projectContent {
+    margin-bottom: 35px;
   }
 }
