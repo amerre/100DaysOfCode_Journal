@@ -1,4 +1,26 @@
+// Colors
+$bg-color: white;
+$dot-color: #000000;
+
+// Dimensions
+$dot-size: 1.7px;
+$dot-space: 25px;
+body {
+  background: linear-gradient(
+        90deg,
+        $bg-color ($dot-space - $dot-size),
+        transparent 1%
+      )
+      center,
+    linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center,
+    $dot-color;
+  background-size: $dot-space $dot-space;
+}
 .container {
   width: $app-width;
   margin: auto;
+  background-color: white;
+  height: 100vh;
+  padding: 20px;
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
 }

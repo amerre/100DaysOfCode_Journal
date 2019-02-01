@@ -6,7 +6,7 @@
   align-items: center;
   font-size: 14px;
   text-transform: uppercase;
-  border: 1px solid black;
+  border: 1px solid $main-color;
   user-select: none;
   &__logo {
     font-size: 50px;
@@ -16,7 +16,7 @@
   }
   &__link:hover,
   .nuxt-link-exact-active {
-    color: red;
+    color: $second-color;
     text-decoration: underline;
   }
 }

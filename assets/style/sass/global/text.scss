@@ -8,13 +8,13 @@ h1 {
 }
 sub {
   font-size: 14px;
-  color: grey;
+  color: $third-color;
   font-weight: 400;
 }
 strong {
   display: block;
   font-size: 18px;
-  color: red;
+  color: $second-color;
   margin: 18px auto 10px auto;
 }
 p {
