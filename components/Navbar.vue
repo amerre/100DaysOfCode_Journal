@@ -7,3 +7,4 @@
     <!-- <nuxt-link to="/writings">Writings page</nuxt-link> -->
   </div>
 </template>
+

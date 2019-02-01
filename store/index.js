@@ -4,7 +4,7 @@ const createStore = () => {
   return new Vuex.Store({
     state: {
       "01": {
-        active: false,
+        active: true,
         title: "Learning to Sass",
         date: "Day 45 - June 13, 2005",
         whatIDid:
