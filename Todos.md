@@ -1,8 +1,9 @@
 TODO:
 
 - Styling the app
-- Add the content
 - Prepare all the days in store.js
+- Work on the logo, on hover change colors
+- Create a footer
 
 FIXME:
 
