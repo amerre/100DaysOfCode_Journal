@@ -17,7 +17,20 @@ strong {
   color: $second-color;
   margin: 18px auto 10px auto;
 }
+b {
+  color:$second-color;
+}
+a {
+  font-size: 16px;
+  font-weight: 400;
+  color: $main-color;
+  &:hover {
+    color: $second-color;
+    text-decoration: underline;
+  }
+}
 p {
   font-size: 16px;
   font-weight: 300;
+  line-height:20px;
 }

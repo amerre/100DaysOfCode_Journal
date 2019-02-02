@@ -1,6 +1,6 @@
 <template>
   <div>
     <h1>About me</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula nisi eu finibus hendrerit. Morbi quis mauris lectus. Quisque vulputate consectetur est, ac auctor mi maximus quis. Aenean sapien nibh, vestibulum sit amet ante sed, tincidunt molestie nisl.</p>
+    <p>I'm a 21 junior front-end developer living in France, near Paris. After learning all the vanilla Javascript basics, I'm currently learning Vue.JS and Node.JS to become a full-stack Javascript ninja.</p>
   </div>
 </template>

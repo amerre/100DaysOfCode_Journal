@@ -1,6 +1,6 @@
 <template>
   <div>
     <h1>Goals</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula nisi eu finibus hendrerit. Morbi quis mauris lectus. Quisque vulputate consectetur est, ac auctor mi maximus quis. Aenean sapien nibh, vestibulum sit amet ante sed, tincidunt molestie nisl.</p>
+    <p>I want to <b>build some cool stuff</b> to put on my future portfolio, I also want to <b>improve my Javascript skills</b> (precisely Vue and Node.js), and I want to <b>learn how to use CSS animation</b>.</p>
   </div>
 </template>

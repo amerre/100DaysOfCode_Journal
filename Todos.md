@@ -6,5 +6,4 @@ TODO:
 
 FIXME:
 
-- Footer pass hover the content
 - Change classic mode for /store

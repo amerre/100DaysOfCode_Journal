@@ -13,20 +13,8 @@
   &__link {
     padding: 15px;
   }
-  &__link:hover,
   .nuxt-link-exact-active {
     color: $second-color;
     text-decoration: underline;
   }
 }
-/*
-text-decoration: none;
-  color: $first-color;
-  background-position-y: 0;
-  background: linear-gradient(180deg, $second-color, $second-color) no-repeat 0
-    1.2rem;
-  transition: background-position-y 0.15s ease-out;
-  &:hover {
-    background-position-y: 0;
-  }
-  */
