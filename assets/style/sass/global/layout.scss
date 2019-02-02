@@ -1,10 +1,10 @@
 // Colors
 $bg-color: white;
-$dot-color: #000000;
+$dot-color: $second-color;
 
 // Dimensions
 $dot-size: 1.7px;
-$dot-space: 25px;
+$dot-space: 35px;
 body {
   background: linear-gradient(
         90deg,
