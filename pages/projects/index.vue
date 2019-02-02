@@ -2,19 +2,16 @@
   <section class="container">
     <navbar/>
     <projects/>
-    <Footer/>
   </section>
 </template>
 
 <script>
 import Navbar from "~/components/Navbar.vue";
-import Footer from "~/components/Footer.vue";
 import Projects from "~/components/projects/Projects.vue";
 
 export default {
   components: {
     Navbar,
-    Footer,
     Projects
   }
 };
