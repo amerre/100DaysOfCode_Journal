@@ -5,8 +5,8 @@ const createStore = () => {
     state: {
       "01": {
         active: true,
-        title: "Doing stuff ...",
-        date: "Day 45 - June 13, 2005",
+        title: "[1] Doing stuff ...",
+        date: "Day 1 - June 13, 2005",
         whatIDid:
           "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",
         thoughts:
@@ -14,7 +14,7 @@ const createStore = () => {
       },
       "02": {
         active: false,
-        title: "Learning things ...",
+        title: "[2] Learning things ...",
         date: "Day 2 - March 23, 2001",
         whatIDid:
           "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",

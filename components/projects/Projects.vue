@@ -1,19 +1,18 @@
 <template>
   <div>
-    <div class="projects" v-for="days in $store.state" :key="days">
-      <button @click="days.active = !days.active" :class="{ active: days.active }">
-        <sub>{{ days.date }}</sub>
-        <h1>{{ days.title }}</h1>
+    <div class="projects" v-for="day in $store.state" :key="day">
+      <button @click="day.active = !day.active" :class="{ active: day.active }">
+        <sub>{{ day.date }}</sub>
+        <h1>{{ day.title }}</h1>
       </button>
       <transition name="appear" mode="out-in">
-        <div class="projectContent" v-if="days.active">
+        <div class="projectContent" v-if="day.active">
           <strong>What I did :</strong>
-          <p>{{ days.whatIDid }}</p>
+          <p>{{ day.whatIDid }}</p>
           <strong>Thoughts :</strong>
-          <p>{{ days.thoughts }}</p>
+          <p>{{ day.thoughts }}</p>
         </div>
       </transition>
     </div>
   </div>
 </template>
-
