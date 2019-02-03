@@ -3,8 +3,8 @@ export default {
     return {
       "01": {
         active: false,
-        title: "[1] Doing stuff ...",
-        date: "Day 1 - June 13, 2005",
+        title: "Example 1",
+        date: "Day 1 - January 01, 2019",
         whatIDid:
           "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",
         thoughts:
@@ -12,8 +12,26 @@ export default {
       },
       "02": {
         active: false,
-        title: "[2] Learning things ...",
-        date: "Day 2 - March 23, 2001",
+        title: "Example 2",
+        date: "Day 2 - January 02, 2019",
+        whatIDid:
+          "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",
+        thoughts:
+          "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem."
+      },
+      "03": {
+        active: false,
+        title: "Example 3",
+        date: "Day 3 - January 03, 2019",
+        whatIDid:
+          "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",
+        thoughts:
+          "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem."
+      },
+      "04": {
+        active: false,
+        title: "Example 4",
+        date: "Day 4 - January 04, 2019",
         whatIDid:
           "Lorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum.",
         thoughts:
