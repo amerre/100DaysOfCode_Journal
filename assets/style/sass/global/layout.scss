@@ -3,7 +3,7 @@ $bg-color: white;
 $dot-color: $second-color;
 
 // Dimensions
-$dot-size: 1.7px;
+$dot-size: 2.2px;
 $dot-space: 35px;
 body {
   background: linear-gradient(
@@ -25,4 +25,10 @@ body {
   box-sizing: border-box;
   padding: 32px;
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 720px) {
+  .container {
+    width: 100%;
+  }
 }
