@@ -4,7 +4,7 @@ const createStore = () => {
   return new Vuex.Store({
     state: {
       "01": {
-        active: true,
+        active: false,
         title: "[1] Doing stuff ...",
         date: "Day 1 - June 13, 2005",
         whatIDid:
