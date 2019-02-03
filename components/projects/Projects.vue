@@ -28,7 +28,7 @@
 export default {
   data() {
     return {
-      sortOrder: true
+      sortOrder: false
     };
   },
   computed: {
@@ -36,6 +36,7 @@ export default {
       let days = this.$store.state.days;
       let sortedDays = {};
       let keys = [];
+
       for (let key in days) {
         keys.push(key);
       }

@@ -42,6 +42,9 @@ button {
   &:hover {
     color: $second-color;
   }
+  &:focus {
+    outline: 0;
+  }
 }
 
 @media screen and (max-width: 720px) {
