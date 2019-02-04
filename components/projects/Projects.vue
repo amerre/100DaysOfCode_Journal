@@ -18,6 +18,7 @@
           <p>{{ day.whatIDid }}</p>
           <strong>Thoughts :</strong>
           <p>{{ day.thoughts }}</p>
+          <a v-if="day.link" :href="day.link" target="_BLANK">Demo</a>
         </div>
       </transition>
     </div>
